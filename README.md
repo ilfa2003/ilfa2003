@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Location]</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -44,10 +44,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilfa2003/ilfa2003/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilfa2003/ilfa2003/output/snake-light.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ilfa2003/ilfa2003/output/snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ilfa2003/ilfa2003/output/snake.svg" alt="Snake animation" />
 
 ###
